@@ -31,7 +31,8 @@
 ![PF2디자인클론코딩 알툴스_1](https://github.com/user-attachments/assets/b84c1591-33ec-4e6a-8da8-7250b0ad24b7)
 ![하이트진로_1](https://github.com/user-attachments/assets/1621759e-f83b-493b-a8a5-de2feaf3d00a)
 ![서울대 도서관 친구들_1](https://github.com/user-attachments/assets/86935c07-269d-4d21-863f-e6dca830a08a)
-![풀무원 투오](https://github.com/user-attachments/assets/cdaa550a-0d0d-4eba-bbcd-0f64917843a6)
+![풀무원 투오] (https://github.com/user-attachments/assets/1ac4a9b2-02ea-4a46-842d-9d8194f64bc8)
+
 
 
 
