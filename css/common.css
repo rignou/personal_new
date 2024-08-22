@@ -1,0 +1,43 @@
+.wrap{
+  max-width: 1700px;
+  margin: 0 auto;
+} 
+.block{
+   display:block; 
+}
+.bold{
+  font-weight: 700;
+}
+.paddingT20{
+  padding-top: 20px;
+}
+.paddingB20{
+  padding-bottom: 20px;
+}
+.paddingT30{
+  padding-top: 30px;
+}
+.paddingB30{
+  padding-bottom: 30px;
+}
+.paddingT40{
+  padding-top: 40px;
+}
+.paddingB40{
+  padding-bottom: 40px;
+}
+.paddingT50{
+  padding-top: 50px;
+}
+.paddingB50{
+  padding-bottom: 50px;
+}
+.flex{
+  display:flex;
+}
+.hide{
+  display:none;
+}
+.grid{
+  display: grid;
+}
